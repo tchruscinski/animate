@@ -3,6 +3,9 @@ body
 	margin: 0;
 	padding: 0;
 	font-family: 'Roboto', sans-serif;
+	background: #6495ED;
+	height: 100%;
+	width: 100%;
 }
 
 canvas
@@ -19,4 +22,9 @@ canvas
 	-moz-box-shadow: 9px 9px 61px -16px rgba(0,0,0,0.76);
 	box-shadow: 9px 9px 61px -16px rgba(0,0,0,0.76);
 	border-radius: 15px;
+}
+
+h1{
+	text-align: center;
+	color: white;
 }
